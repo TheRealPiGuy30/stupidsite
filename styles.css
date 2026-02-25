@@ -1,0 +1,89 @@
+.text {
+  display: flex;
+  justify-content: center;
+  height: 50px;
+  background-color: light blue;
+  color: blue;
+}
+
+.button {
+  display: flex;
+  justify-content: center;  
+  height: 75px;
+  background-color: light blue;
+  color: blue;
+}
+
+.title {
+  display: flex;
+  justify-content: center;  
+  align-items: center;
+  height: 20px;
+  background-color: light blue;
+  color: white;
+}
+
+.paragraph {
+  display: flex;
+  justify-content: center;
+  height: 20px;
+}
+
+.paragraph1 {
+  display: flex;
+  justify-content: center;  
+  height: 20px;
+}
+
+.paragraph2 {
+  display: flex;
+  justify-content: center;  
+  height: 2px;  
+}
+
+.paragraph3 {
+  display: flex;
+  justify-content: center;  
+  height: 50px; 
+  color: white;
+}
+
+.code {
+  display: flex;
+  justify-content: center;  
+  max-height: 30px;
+  color: black;
+}
+
+.GIF {
+  display: flex;
+  justify-content: center;  
+  max-height: 30px;
+  color: black;
+  margin: 50px;
+}
+
+.gif {
+  display: flex;
+  justify-content: center;
+  max-width: 85%;
+  padding: 25px;
+}
+
+.ctitle {
+  display: flex;
+  justify-content: center; 
+  color: white;
+}
+
+.ctext2 {
+  display: flex;
+  justify-content: center; 
+  color: white;
+}
+
+.ctext1 {
+  display: flex;
+  justify-content: center; 
+  color: white;
+}
